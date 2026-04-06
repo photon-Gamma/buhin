@@ -1,0 +1,13 @@
+{   
+    "name":"製品001",
+    "figure_number": "図番001",
+    "bom_file_path":"./bom.xlsx",
+    "bom_read_data":[
+        "部材名", "識別子","数量"
+    ],
+    "param_file_path":"./param_data.xlsx",
+    "param_read_data":[
+        "支給形態", "登録番号"
+    ],
+    "output_file_path":"./output.xlsx"
+}
